@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/0175-combine-two-tables) |
 | [1390-average-selling-price](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
