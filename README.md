@@ -11,5 +11,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1390-average-selling-price](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
