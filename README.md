@@ -13,5 +13,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/0262-trips-and-users) |
+| [1179-game-play-analysis-i](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1390-average-selling-price](https://github.com/mustafarezk12/Crack-SQL-Interview-in-50-Qs-Leetcode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
